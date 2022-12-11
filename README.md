@@ -24,8 +24,8 @@ Users should be able to:
 
 ![Desktop-design](./images/stats-image.jpg)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github code](https://github.com/goldreb/stats-preview-card)
+- Live Site URL: [netlify live site](https://stats-preview-card-1210.netlify.app/)
 
 ### Built with
 
